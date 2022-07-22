@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mackson Ncube --> @mncube
 - 👀 I’m interested in STATISTICS
-- 🌱 I’m currently learning open source development
 - 💞️ I’m looking to collaborate on R packages & statistical services
 - 📫 How to reach me --> macksonncube.stats@gmail.com
 
